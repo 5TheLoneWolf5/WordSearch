@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+
+#title {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 3em;
+}
+
+#text {
+    margin: auto;
+    margin-top: 50px;
+    width: 1100px;
+    /* overflow: scroll; */
+    border: 2px solid #000000;
+    font-size: 20px;
+}
